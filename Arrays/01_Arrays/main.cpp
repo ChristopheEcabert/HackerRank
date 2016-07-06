@@ -1,6 +1,7 @@
 /**
  *  @file   main.cpp
  *  @brief  HackerRank array assignment
+ *  @see    https://www.hackerrank.com/challenges/arrays-ds
  *
  *  @author Christophe Ecabert
  *  @date   06/07/2016
